@@ -1,0 +1,1 @@
+g++ -g testing.C `root-config --cflags --glibs`
